@@ -1,0 +1,5 @@
+{
+  "name": "Pure JS HTML/Text Stripper",
+  "description": "A modern, responsive tool to instantly remove all HTML tags from text, leaving only the clean, plain text content. Built with React, Tailwind CSS, and pure JavaScript for client-side processing.",
+  "requestFramePermissions": []
+}
